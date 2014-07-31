@@ -1,0 +1,11 @@
+Gosho: 39
+Ivo: 12
+Aisiktir: 0
+Test: 0
+Kil: 0
+Loco: 0
+Pro: 0
+Gencho: 0
+Ana: 0
+Pesho: 0
+Asd: 0

@@ -1,0 +1,10 @@
+This is first Line
+Now is the second
+The third line is here
+Fourth line comes right after that
+Fifth line is the last line 
+And so on...
+And so on...
+This is the second text file.
+Here i'm writing only nonsense so i could have something write down.
+Its very boring so i will stop now !
